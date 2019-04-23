@@ -1,0 +1,33 @@
+Você deve implementar o website dos cursos de Tecnologia da Informação da UNIGRANRIO. Para tal, você deve utilizar as tecnologias HTML5, CSS3 e Java.
+
+
+- Cursos
+	- Bacharelado em Sistemas de Informação
+	- Tecnologia em Análise e Desenvolvimento de Sistemas
+	- Tecnologia em Redes de Computadores
+	- Tecnologia em Sistemas para Internet (NOVO)
+
+- Corpo Docente
+	- Para cada professor: foto, nome e link para o currículo Lattes
+		- Alexandre Neves Louzada (Mestre)
+		- Anderson Silva do Nascimento (Mestre)
+		- Daniel de Oliveira (Doutor)
+		- Eduardo dos Santos Pereira (Especialista) *****
+		- Flávio Dumortout de Mendonça Júnior (Mestre)
+		- Joao Francisco de Oliveira Antunes (Mestre)
+		- João Paulo Baptista Voigtlaender (Especialista)
+		- José Luiz Thomaselli Nogueira (Doutor)
+		- Luciene Cristina Soares Motta (Doutor)
+		- Luiz Fernando Teixeira de Farias (Mestre)
+		- Marco Antonio de Melo Britto (Doutor)
+		- Miguel Gabriel Prazeres de Carvalho (Mestre)
+		- Natalia Joana Silva de Oliveira (Especialista)
+		- Pedro Vieira do Nascimento (Mestre)
+		- Thiago Silva de Souza (Doutor)
+
+- Eventos
+	- Hackathon 2019 (https://portal.unigranrio.edu.br/hackathon-unigranrio
+	- ERSI 2019
+
+- Notícias
+	- Link para uma matéria do Jornal Extra (https://extra.globo.com/noticias/rio/alunos-da-unigranrio-de-duque-de-caxias-criam-aplicativos-buscam-parceria-22977901.html)
